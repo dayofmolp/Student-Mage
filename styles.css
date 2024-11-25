@@ -1,0 +1,30 @@
+body {
+    font-family: 'Serif', serif;
+    color: #333;
+    background: linear-gradient(to bottom, #0d1b2a, #1b263b);
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #415a77;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    color: #e0e1dd;
+    text-decoration: none;
+    margin: 0 10px;
+}
+h1, h2 {
+    color: #e0e1dd;
+}
+.card {
+    background: #778da9;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    color: #fff;
+}
